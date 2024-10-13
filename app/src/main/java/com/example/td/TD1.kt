@@ -136,13 +136,7 @@ package com.example.td
 //    rectangle.HL()
 //}
 
-echo "# TD1" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Mouadcode12/TD1.git
-git push -u origin main
+
 
 
 
